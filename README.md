@@ -1,5 +1,10 @@
-# 💫 About Me:
+# 💫 👋 About Me:
+
 Welcome to my GitHub profile! I'm passionate about automation with Python, Next.js, SSR, APIs, and crafting sleek front-end dashboards, as well as fun 3D websites. With a knack for blending cutting-edge technology with elegant design, I'm on a journey to innovate and create.
+
+🔒 Private Repositories:
+
+Please note that a significant portion of my repositories are private due to my work commitments.
 
 
 # 💻 Tech Stack:
