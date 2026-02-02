@@ -1,10 +1,62 @@
 # 💫 👋 About Me:
 
-Welcome to my GitHub profile! I'm passionate about automation with Python, Next.js, SSR, APIs, and crafting sleek front-end dashboards, as well as fun 3D websites. With a knack for blending cutting-edge technology with elegant design, I'm on a journey to innovate and create.
+💫 👋 About Me
 
-🔒 Private Repositories:
+I build internet leverage.
 
-Please note that a significant portion of my repositories are private due to my work commitments.
+Founder of Racqix — a performance-driven tennis intelligence platform turning structured data into tools, traffic, and revenue.
+
+I don’t just write code.
+I design systems that compound:
+
+SEO → traffic
+
+Tools → retention
+
+Data → defensibility
+
+AI → speed
+
+Most of my serious work lives in private repos.
+Public repos show how I think: modular, scalable, revenue-aware.
+
+🚀 What I Build
+
+SEO-dominant tool ecosystems
+
+ISR-heavy Next.js architectures
+
+Structured datasets (1,000+ racquets, real specs, real use cases)
+
+AI-assisted workflows & automations
+
+Performance-first dashboards
+
+Monetizable niche platforms
+
+I optimize for:
+
+Speed
+
+Conversion
+
+Distribution
+
+Long-term defensibility
+
+🧠 Current Focus
+
+Turning data into authority
+
+Turning authority into traffic
+
+Turning traffic into products
+
+Turning products into cashflow
+
+🔒 Private Repositories
+
+Most of my high-impact work is private due to active commercial projects and partnerships.
 
 
 # 💻 Tech Stack:
